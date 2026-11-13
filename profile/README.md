@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://dynatrisoft.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-light.svg">
-      <img alt="DynatriSoft Studios" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-light.svg">
+      <img alt="DynatriSoft Studios" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-dark.svg" width="100%">
     </picture>
   </a>
 </p>
@@ -16,7 +16,7 @@
 
 ## Ideas deserve thoughtful execution.
 
-**DynatriSoft Studio** brings a studio mindset to software: curiosity to explore, care to craft, and discipline to build with purpose.
+**DynatriSoft Studios** brings a studio mindset to software: curiosity to explore, care to craft, and discipline to build with purpose.
 
 Our focus is simple: turn ideas into useful digital experiences, with attention to the people who use them and the engineering that supports them.
 
@@ -39,7 +39,7 @@ For questions or contributions to a public project, start with its README and co
 
 Our visual identity brings together a geometric monogram, a four-point star, and a blue gradient. Its construction uses Fibonacci proportions—a small expression of the balance between creativity and precision that informs the studio's identity.
 
-**DynatriSoft Studio** is a brand of **ZEPHYRUS PROSPERITY - UNIPESSOAL LDA**, the company behind the studio.
+**DynatriSoft Studios** is a brand of **ZEPHYRUS PROSPERITY - UNIPESSOAL LDA**, the company behind the studio.
 
 </details>
 
@@ -51,5 +51,5 @@ Our visual identity brings together a geometric monogram, a four-point star, and
 </p>
 
 <p align="center">
-  <sub>DynatriSoft Studio · ZEPHYRUS PROSPERITY - UNIPESSOAL LDA</sub>
+  <sub>DynatriSoft Studios · ZEPHYRUS PROSPERITY - UNIPESSOAL LDA</sub>
 </p>
