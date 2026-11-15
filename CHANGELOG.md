@@ -4,6 +4,8 @@ All entries are in English. Historical entries below are reconstructed from Git 
 
 ## Unreleased
 
+- Removed the redundant Repositories navigation button from the organization profile.
+
 - Unified game and partner cards at a compact 360-pixel display width while preserving their aspect ratio.
 
 - Shortened the game section heading to Games and removed its introductory sentence.

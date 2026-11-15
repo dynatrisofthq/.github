@@ -14,7 +14,6 @@
   <a href="https://dynatrisoft.com/en#studio"><img alt="Meet the studio" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-studio.svg" width="124" height="36"></a>
   <a href="https://dynatrisoft.com/en/news"><img alt="Read studio news" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-news.svg" width="80" height="36"></a>
   <a href="https://dynatrisoft.com/en/press-kit"><img alt="Download our press kit" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-press-kit.svg" width="112" height="36"></a>
-  <a href="https://github.com/orgs/dynatrisofthq/repositories"><img alt="Explore our repositories" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-repositories.svg" width="152" height="36"></a>
 </p>
 
 ## Ideas deserve thoughtful execution.
