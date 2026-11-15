@@ -4,6 +4,9 @@ All entries are in English. Historical entries below are reconstructed from Git 
 
 ## Unreleased
 
+- Replaced the public profile table with four branded SVG game cards linking to individual Nexlo Games pages.
+- Added SVG partner cards for Zephyrus and Nexlo Games, in that order, using their official logos.
+
 - Replaced plain website and repository navigation links with accessible blue SVG buttons featuring arrows, clipped corners, and offset shadows; preserved existing destinations and light/dark banners.
 
 - Added or refreshed README.md, CHANGELOG.md, and AGENTS.md to preserve project context outside chat history.

@@ -20,11 +20,38 @@
 
 Our focus is simple: turn ideas into useful digital experiences, with attention to the people who use them and the engineering that supports them.
 
-### What guides us
+### Games in development
 
-| Purpose first | Care in the details | Built to evolve |
-| :--- | :--- | :--- |
-| Start with a real need. Make every feature earn its place. | Value clear interfaces, readable code, and deliberate decisions. | Keep solutions understandable, maintainable, and ready for what comes next. |
+Explore the games being developed by our sister brand, [Nexlo Games](https://nexlogames.com).
+
+<p align="center">
+  <a href="https://nexlogames.com/games/little-ghost-lost-memories">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-little-ghost-lost-memories.svg" alt="Little Ghost: Lost Memories — visit the game page" width="49%">
+  </a>
+  <a href="https://nexlogames.com/games/julies-adventure">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-julies-adventure.svg" alt="Julie’s Adventure — visit the game page" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nexlogames.com/games/soulshift-stolen-bodies">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-soulshift-stolen-bodies.svg" alt="SOULSHIFT: STOLEN BODIES — visit the game page" width="49%">
+  </a>
+  <a href="https://nexlogames.com/games/dungeon-forge-guild-tycoon">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-dungeon-forge-guild-tycoon.svg" alt="Dungeon Forge: Guild Tycoon — visit the game page" width="49%">
+  </a>
+</p>
+
+### Partners
+
+<p align="center">
+  <a href="https://zephyrushq.com">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-zephyrus.svg" alt="Zephyrus — zephyrushq.com" width="49%">
+  </a>
+  <a href="https://nexlogames.com">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-nexlo-games.svg" alt="Nexlo Games — nexlogames.com" width="49%">
+  </a>
+</p>
 
 ### Explore the studio
 

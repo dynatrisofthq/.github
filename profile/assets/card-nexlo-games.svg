@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">Nexlo Games</title>
+  <desc id="desc">nexlogames.com</desc>
+  <defs><clipPath id="card"><rect x="2" y="2" width="716" height="476" rx="28"/></clipPath></defs>
+  <g clip-path="url(#card)">
+    <path fill="#FFC233" d="M0 0H720V480H0Z"/>
+    <g fill="none" stroke="#A30611" opacity=".13" stroke-width="2">
+      <circle cx="603" cy="189" r="154"/><circle cx="603" cy="189" r="121"/><circle cx="603" cy="189" r="88"/>
+      <path d="M440 189H766M603 26V352"/>
+    </g>
+    <text x="40" y="50" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">DYNATRISOFT / PARTNERS</text>
+    <rect x="620" y="29" width="60" height="30" rx="15" fill="#181818"/>
+    <text x="650" y="49" text-anchor="middle" fill="#FFC233" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">02</text>
+    <svg xmlns="http://www.w3.org/2000/svg" x="64" y="132" width="592" height="116" viewBox="0 0 1180 232" fill="none" role="img" aria-labelledby="nexlo-logo-title">
+  <title id="nexlo-logo-title">NEXLO</title>
+  <g fill="#181818">
+    <path d="M24 3H83Q91 3 97 10L182 116V14Q182 3 194 3H250Q262 3 262 15V207Q262 229 240 229H199Q188 229 181 220L79 115V216Q79 229 66 229H14Q2 229 2 216V26Q2 3 24 3Z"/>
+    <path d="M302 3H465Q477 3 477 15V50Q477 62 465 62H356V84H450Q462 84 462 96V129Q462 141 450 141H356V164H465Q477 164 477 176V217Q477 229 465 229H302Q279 229 279 206V26Q279 3 302 3Z"/>
+    <path d="M500 3H558Q567 3 573 10L615 57L656 10Q662 3 671 3H729Q746 3 737 16L664 110L746 215Q756 229 739 229H672Q663 229 657 222L615 171L572 222Q566 229 557 229H493Q476 229 486 215L566 110L492 16Q482 3 500 3Z"/>
+    <path d="M766 3H819Q831 3 831 15V151Q831 162 842 162H921Q933 162 933 174V217Q933 229 921 229H766Q754 229 754 217V15Q754 3 766 3Z"/>
+    <path fill-rule="evenodd" d="M1021 3H1099C1150 3 1179 32 1179 83V149C1179 200 1150 229 1099 229H1021C970 229 940 200 940 149V83C940 32 970 3 1021 3ZM1037 69Q1017 69 1017 89V141Q1017 161 1037 161H1082Q1102 161 1102 141V89Q1102 69 1082 69Z"/>
+  </g>
+</svg>
+    <path d="M40 322H680" stroke="#181818" opacity=".22"/>
+    <path d="M40 322H116" stroke="#A30611" stroke-width="5"/>
+    <text x="40" y="372" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Nexlo Games</text>
+    <text x="40" y="424" fill="#181818" font-family="Arial, Helvetica, sans-serif" font-size="17">nexlogames.com</text>
+    <rect x="626" y="398" width="54" height="48" rx="12" fill="#181818"/>
+    <path d="M641 432L666 411M646 411H666V430" fill="none" stroke="#FFC233" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="2" y="2" width="716" height="476" rx="28" fill="none" stroke="#A30611" stroke-opacity=".55" stroke-width="2"/>
+</svg>
