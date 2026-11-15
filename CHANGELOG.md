@@ -4,6 +4,8 @@ All entries are in English. Historical entries below are reconstructed from Git 
 
 ## Unreleased
 
+- Replaced plain website and repository navigation links with accessible blue SVG buttons featuring arrows, clipped corners, and offset shadows; preserved existing destinations and light/dark banners.
+
 - Added or refreshed README.md, CHANGELOG.md, and AGENTS.md to preserve project context outside chat history.
 - Standardized documentation in English and documented the primary branch and language policy.
 - Renamed the primary branch from `main` to `develop` and updated raw banner links accordingly.

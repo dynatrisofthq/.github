@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="48" viewBox="0 0 164 48" role="img" aria-labelledby="title">
+  <title id="title">Visit our website</title>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1674D4"/>
+      <stop offset="1" stop-color="#2450D8"/>
+    </linearGradient>
+  </defs>
+  <path d="M8 4 H162 V38 L152 48 H2 V10 Z" fill="#080F1D"/>
+  <path d="M8 1 H161 V35 L151 45 H1 V8 Z" fill="url(#blue)" stroke="#38BDF8" stroke-opacity=".5"/>
+  <path d="m15 16 7 7-7 7" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="94.5" y="27.5" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" text-anchor="middle">WEBSITE</text>
+</svg>

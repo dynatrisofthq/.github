@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dynatrisoft.com"><strong>Visit our website ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/orgs/dynatrisofthq/repositories">Explore our repositories</a>
+  <a href="https://dynatrisoft.com"><img alt="Visit our website" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/button-website.svg" width="164" height="48"></a>
+  &nbsp;
+  <a href="https://github.com/orgs/dynatrisofthq/repositories"><img alt="Explore our repositories" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/button-repositories.svg" width="224" height="48"></a>
 </p>
 
 ## Ideas deserve thoughtful execution.

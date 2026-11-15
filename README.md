@@ -6,12 +6,14 @@ Repository: `dynatrisofthq/.github`. Primary branch: `develop`.
 
 ## Purpose and files
 
-`profile/README.md` is the public organization profile. `profile/assets` contains the branded light/dark SVG banners and associated assets. This repository is not the studio website, a backend, or the Cleopatra package source.
+`profile/README.md` is the public organization profile. `profile/assets` contains the branded light/dark SVG banners and blue SVG navigation buttons. This repository is not the studio website, a backend, or the Cleopatra package source.
 
 Keep public profile prose in English. Use DynatriSoft Studios as the long name and DynatriSoft as the short name. Do not expose private architecture, credentials, personal account information, or unpublished business details in the public profile.
 
 ## Editing and verification
 
 Edit Markdown and existing SVG assets directly. No package installation, app runtime, or Docker build is required for these static files. Check Markdown links, image paths, SVG validity, light/dark readability, and the rendered GitHub profile. Raw GitHub asset URLs must target `develop` after the primary branch rename; `main` is no longer the maintained branch.
+
+Navigation buttons are static SVG images inside ordinary Markdown/HTML links, with accessible image labels. Keep their arrow, clipped corners, blue gradient, and offset shadow consistent; link destinations belong in `profile/README.md`. Buttons share the same artwork in light and dark themes.
 
 Read AGENTS.md before changes. Record each change in CHANGELOG.md; update this README and agent instructions when their setup or conventions change.
