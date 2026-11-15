@@ -27,7 +27,7 @@ Our focus is simple: turn ideas into useful digital experiences, with attention 
 
 <p align="center">
   <a href="https://anoraslegacy.com/en">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-anoras-legacy.svg" alt="Anora’s Legacy — visit the official game website" width="720">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-anoras-legacy.svg" alt="Anora’s Legacy — visit the official game website" width="360">
   </a>
 </p>
 
@@ -35,10 +35,10 @@ Our focus is simple: turn ideas into useful digital experiences, with attention 
 
 <p align="center">
   <a href="https://zephyrushq.com">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-zephyrus.svg" alt="Zephyrus — zephyrushq.com" width="49%">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-zephyrus.svg" alt="Zephyrus — zephyrushq.com" width="360">
   </a>
   <a href="https://nexlogames.com">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-nexlo-games.svg" alt="Nexlo Games — nexlogames.com" width="49%">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-nexlo-games.svg" alt="Nexlo Games — nexlogames.com" width="360">
   </a>
 </p>
 
