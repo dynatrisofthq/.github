@@ -1,6 +1,6 @@
 # Agent instructions — Organization profile
 
-Primary branch: `develop`. Preserve this branch policy.
+Primary branch: `main`. Preserve this branch policy.
 
 ## Engineering and language policy
 

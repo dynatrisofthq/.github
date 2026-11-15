@@ -2,7 +2,7 @@
 
 DynatriSoft Studios (short name: DynatriSoft), operated by ZEPHYRUS PROSPERITY - UNIPESSOAL LDA.
 
-Repository: `dynatrisofthq/.github`. Primary branch: `develop`.
+Repository: `dynatrisofthq/.github`. Primary branch: `main`.
 
 ## Purpose and files
 
@@ -12,7 +12,7 @@ Keep public profile prose in English. Use DynatriSoft Studios as the long name a
 
 ## Editing and verification
 
-Edit Markdown and existing SVG assets directly. No package installation, app runtime, or Docker build is required for these static files. Check Markdown links, image paths, SVG validity, light/dark readability, and the rendered GitHub profile. Raw GitHub asset URLs must target `develop` after the primary branch rename; `main` is no longer the maintained branch.
+Edit Markdown and existing SVG assets directly. No package installation, app runtime, or Docker build is required for these static files. Check Markdown links, image paths, SVG validity, light/dark readability, and the rendered GitHub profile. Raw GitHub asset URLs must target the primary branch, `main`.
 
 Navigation buttons are static SVG images inside ordinary Markdown/HTML links, with accessible image labels. Keep their arrow, clipped corners, blue gradient, and offset shadow consistent; link destinations belong in `profile/README.md`. Buttons share the same artwork in light and dark themes.
 

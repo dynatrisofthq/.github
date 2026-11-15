@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://dynatrisoft.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-light.svg">
-      <img alt="DynatriSoft Studios" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/banner-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-light.svg">
+      <img alt="DynatriSoft Studios" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/banner-dark.svg" width="100%">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://dynatrisoft.com"><img alt="Visit our website" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/button-website.svg" width="164" height="48"></a>
+  <a href="https://dynatrisoft.com"><img alt="Visit our website" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-website.svg" width="164" height="48"></a>
   &nbsp;
-  <a href="https://github.com/orgs/dynatrisofthq/repositories"><img alt="Explore our repositories" src="https://raw.githubusercontent.com/dynatrisofthq/.github/develop/profile/assets/button-repositories.svg" width="224" height="48"></a>
+  <a href="https://github.com/orgs/dynatrisofthq/repositories"><img alt="Explore our repositories" src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/button-repositories.svg" width="224" height="48"></a>
 </p>
 
 ## Ideas deserve thoughtful execution.
