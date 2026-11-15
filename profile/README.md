@@ -28,23 +28,11 @@ Our focus is simple: turn ideas into useful digital experiences, with attention 
 
 ### Games in development
 
-Explore the games being developed by our sister brand, [Nexlo Games](https://nexlogames.com).
+Discover **Anora’s Legacy**, our game in development.
 
 <p align="center">
-  <a href="https://nexlogames.com/games/little-ghost-lost-memories">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-little-ghost-lost-memories.svg" alt="Little Ghost: Lost Memories — visit the game page" width="49%">
-  </a>
-  <a href="https://nexlogames.com/games/julies-adventure">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-julies-adventure.svg" alt="Julie’s Adventure — visit the game page" width="49%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://nexlogames.com/games/soulshift-stolen-bodies">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-soulshift-stolen-bodies.svg" alt="SOULSHIFT: STOLEN BODIES — visit the game page" width="49%">
-  </a>
-  <a href="https://nexlogames.com/games/dungeon-forge-guild-tycoon">
-    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-dungeon-forge-guild-tycoon.svg" alt="Dungeon Forge: Guild Tycoon — visit the game page" width="49%">
+  <a href="https://anoraslegacy.com/en">
+    <img src="https://raw.githubusercontent.com/dynatrisofthq/.github/main/profile/assets/card-anoras-legacy.svg" alt="Anora’s Legacy — visit the official game website" width="720">
   </a>
 </p>
 

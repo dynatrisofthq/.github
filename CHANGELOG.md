@@ -6,7 +6,8 @@ All entries are in English. Historical entries below are reconstructed from Git 
 
 - Added branded SVG navigation buttons for games, the studio, news, and the press kit, alongside the existing website and repository links.
 
-- Replaced the public profile table with four branded SVG game cards linking to individual Nexlo Games pages.
+- Replaced the public profile table with a branded SVG card for Anora’s Legacy linking to its official website.
+- Corrected the game section to feature DynatriSoft’s own game and removed the mistakenly included Nexlo game cards.
 - Added SVG partner cards for Zephyrus and Nexlo Games, in that order, using their official logos.
 
 - Replaced plain website and repository navigation links with accessible blue SVG buttons featuring arrows, clipped corners, and offset shadows; preserved existing destinations and light/dark banners.

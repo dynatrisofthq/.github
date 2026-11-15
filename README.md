@@ -16,6 +16,6 @@ Edit Markdown and existing SVG assets directly. No package installation, app run
 
 Navigation buttons are static SVG images inside ordinary Markdown/HTML links, with accessible image labels. Keep their arrow, clipped corners, blue gradient, and offset shadow consistent; link destinations belong in `profile/README.md`. Buttons share the same artwork in light and dark themes. The navigation covers the website, games and studio sections, news, press kit, and public repositories; website section and page links use the official English routes.
 
-Game cards link to individual Nexlo Games pages. Partner cards link to Zephyrus first, then Nexlo Games. Keep official brand artwork embedded in self-contained SVGs; card destinations belong in `profile/README.md`.
+The game section features DynatriSoft’s Anora’s Legacy and links to its official website, `https://anoraslegacy.com/en`. Nexlo Games appears only as a partner. Partner cards link to Zephyrus first, then Nexlo Games. Keep official brand artwork embedded in self-contained SVGs; card destinations belong in `profile/README.md`.
 
 Read AGENTS.md before changes. Record each change in CHANGELOG.md; update this README and agent instructions when their setup or conventions change.
