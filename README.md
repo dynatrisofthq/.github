@@ -14,7 +14,7 @@ Keep public profile prose in English. Use DynatriSoft Studios as the long name a
 
 Edit Markdown and existing SVG assets directly. No package installation, app runtime, or Docker build is required for these static files. Check Markdown links, image paths, SVG validity, light/dark readability, and the rendered GitHub profile. Raw GitHub asset URLs must target the primary branch, `main`.
 
-Navigation buttons are static SVG images inside ordinary Markdown/HTML links, with accessible image labels. Keep their arrow, clipped corners, blue gradient, and offset shadow consistent; link destinations belong in `profile/README.md`. Buttons share the same artwork in light and dark themes.
+Navigation buttons are static SVG images inside ordinary Markdown/HTML links, with accessible image labels. Keep their arrow, clipped corners, blue gradient, and offset shadow consistent; link destinations belong in `profile/README.md`. Buttons share the same artwork in light and dark themes. The navigation covers the website, games and studio sections, news, press kit, and public repositories; website section and page links use the official English routes.
 
 Game cards link to individual Nexlo Games pages. Partner cards link to Zephyrus first, then Nexlo Games. Keep official brand artwork embedded in self-contained SVGs; card destinations belong in `profile/README.md`.
 
