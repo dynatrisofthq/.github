@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="154" height="48" viewBox="0 0 154 48" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="36" viewBox="0 0 124 36" role="img" aria-labelledby="title">
   <title id="title">Meet the studio</title>
   <defs>
     <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
@@ -6,8 +6,8 @@
       <stop offset="1" stop-color="#2450D8"/>
     </linearGradient>
   </defs>
-  <path d="M8 4 H152 V38 L142 48 H2 V10 Z" fill="#080F1D"/>
-  <path d="M8 1 H151 V35 L141 45 H1 V8 Z" fill="url(#blue)" stroke="#38BDF8" stroke-opacity=".5"/>
-  <path d="m15 16 7 7-7 7" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
-  <text x="89.5" y="27.5" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" text-anchor="middle">THE STUDIO</text>
+  <path d="M7 3H123V28L116 36H1V9Z" fill="#080F1D"/>
+  <path d="M7 1H122V27L115 34H1V7Z" fill="url(#blue)" stroke="#38BDF8" stroke-opacity=".5"/>
+  <path d="m11 12 5 5-5 5" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="72.0" y="21" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing=".8" text-anchor="middle">THE STUDIO</text>
 </svg>

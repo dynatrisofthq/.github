@@ -4,6 +4,10 @@ All entries are in English. Historical entries below are reconstructed from Git 
 
 ## Unreleased
 
+- Shortened the game section heading to Games and removed its introductory sentence.
+
+- Reduced navigation button height and widths and combined all six links into one compact row on desktop.
+
 - Added branded SVG navigation buttons for games, the studio, news, and the press kit, alongside the existing website and repository links.
 
 - Replaced the public profile table with a branded SVG card for Anora’s Legacy linking to its official website.
